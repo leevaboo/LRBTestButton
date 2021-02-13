@@ -1,0 +1,16 @@
+PODS:
+  - LRBTestButton (0.1.0)
+
+DEPENDENCIES:
+  - LRBTestButton (from `../`)
+
+EXTERNAL SOURCES:
+  LRBTestButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LRBTestButton: a5984f95bb6c8e9ef21bce40a3591acf300e4306
+
+PODFILE CHECKSUM: d9e0a9f0afbcc6011c3cf7057827da5ba8ecc867
+
+COCOAPODS: 1.10.0

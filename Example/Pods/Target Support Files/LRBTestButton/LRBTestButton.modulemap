@@ -1,0 +1,6 @@
+framework module LRBTestButton {
+  umbrella header "LRBTestButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

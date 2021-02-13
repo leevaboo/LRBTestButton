@@ -1,0 +1,6 @@
+framework module Pods_LRBTestButton_Tests {
+  umbrella header "Pods-LRBTestButton_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

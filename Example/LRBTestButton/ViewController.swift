@@ -7,12 +7,20 @@
 //
 
 import UIKit
+import LRBTestButton
+
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+      view.backgroundColor = .red
+      
+      let bt = LRBTestButton.greenButton()
+      bt.frame = CGRect.init(x: 0, y: 0, width: 200, height: 130)
+      bt.center = view.center
+      view.addSubview(bt)
+      
     }
 
     override func didReceiveMemoryWarning() {
