@@ -22,7 +22,7 @@ pod 'LRBTestButton'
 
 ## Author
 
-leevaboo, liyuanbo@100tal.com
+leevaboo, leevaboo@yeah.net
 
 ## License
 

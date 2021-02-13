@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/leevaboo/LRBTestButton'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'leevaboo' => 'liyuanbo@100tal.com' }
+  s.author           = { 'leevaboo' => 'leevaboo@yeah.net' }
   s.source           = { :git => 'https://github.com/leevaboo/LRBTestButton.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
